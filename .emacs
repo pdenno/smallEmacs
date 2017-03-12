@@ -20,7 +20,7 @@
  '(mark-even-if-inactive t)
  '(package-selected-packages
    (quote
-    (swiper rainbow-delimiters paredit kibit-helper dockerfile-mode clojure-mode-extra-font-locking clojure-cheatsheet cider-spy ac-cider)))
+    (swiper rainbow-delimiters paredit kibit-helper clojure-mode-extra-font-locking clojure-cheatsheet cider-spy ac-cider)))
  '(scroll-bar-mode (quote right))
  '(show-paren-mode t nil (paren))
  '(text-mode-hook (quote (turn-off-auto-fill text-mode-hook-identify)))
