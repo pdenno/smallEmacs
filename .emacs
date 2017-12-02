@@ -46,3 +46,4 @@
  '(rainbow-delimiters-depth-7-face ((t (:foreground "deep sky blue")))))
 
 (load "~/.emacs.d/init.el")
+(ido-mode nil) ; undo the above (ido-mode t) which I don't like. 
